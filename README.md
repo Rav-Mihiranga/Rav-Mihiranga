@@ -51,6 +51,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rav-Mihiranga&show_icons=true&theme=radical&animation=fadeIn)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rav-Mihiranga&layout=compact&theme=radical&animation=fadeIn)
 
 
 ---
