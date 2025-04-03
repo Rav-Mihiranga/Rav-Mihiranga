@@ -2,6 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Ravindu Mihiranga</h1>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Rav-Mihiranga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"  />
+</p>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 ---
@@ -54,7 +57,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rav-Mihiranga&show_icons=true&theme=radical&animation=fadeIn)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rav-Mihiranga&layout=compact&theme=radical&animation=fadeIn)
+! <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rav-Mihiranga&layout=compact&theme=dark&bg_color=0A0A0A" 
+       alt="Rav-Mihiranga" width="400" />
 
 
 ---
